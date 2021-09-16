@@ -18,12 +18,14 @@
 
 <h3><b>Project</b></h3>
 <p>
+  <img alt="sensitiveEyes_icon" src="https://user-images.githubusercontent.com/43941396/133593188-38cbaeef-09a6-4bbc-adcd-b7d7b97f4faf.png"
+   width="17" height="17">
   <a href="https://github.com/kwangyunwon/Sensitive-Eyes">Sensitive Eyes</a> </br>
   <img alt="Vegan_icon" src="https://user-images.githubusercontent.com/43941396/133584661-9ac584f3-5c0a-4716-8434-1561bc64a820.png"
-       width="17" height="17"> 
+   width="17" height="17"> 
   <a href="https://github.com/kwangyunwon/Vegan_WebProject">Vegan Project</a> </br>
   <img alt="maskstar_icon" src="https://user-images.githubusercontent.com/43941396/133590869-1c133c50-eecd-454b-816c-4276ad884c31.png"
-       width="17" height="17">
+   width="17" height="17">
   <a href="https://github.com/kwangyunwon/MaskStar">MaskStar</a>
 </p>
 
