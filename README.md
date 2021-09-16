@@ -19,7 +19,9 @@
 <h3 align="center"><b>Project</b></h3>
 <p align="center">
   <a href="https://github.com/kwangyunwon/Sensitive-Eyes">Sensitive Eyes</a> </br>
-  <a href="https://github.com/kwangyunwon/Sensitive-Eyes">Vegan Project</a> </br>
+  <img alt="Vegan_icon" src="https://user-images.githubusercontent.com/43941396/133584661-9ac584f3-5c0a-4716-8434-1561bc64a820.png"
+       width="17" height="17"> 
+  <a href="https://github.com/kwangyunwon/Vegan_WebProject">Vegan Project</a> </br>
   <a href="https://github.com/kwangyunwon/MaskStar">MaskStar</a>
 </p>
 
