@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WKY&fontSize=90&animation=fadeIn&fontAlign=70)
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-<h3 align="center"><b>Project</b></h3>
-<p align="center">
+<h3><b>Project</b></h3>
+<p>
   <a href="https://github.com/kwangyunwon/Sensitive-Eyes">Sensitive Eyes</a> </br>
   <img alt="Vegan_icon" src="https://user-images.githubusercontent.com/43941396/133584661-9ac584f3-5c0a-4716-8434-1561bc64a820.png"
        width="17" height="17"> 
