@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-<h3><b>Project 이게맞냐></b></h3>
+<h3><b>Project</b></h3>
 <p>
   <img alt="sensitiveEyes_icon" src="https://user-images.githubusercontent.com/43941396/133593188-38cbaeef-09a6-4bbc-adcd-b7d7b97f4faf.png"
    width="17" height="17">
